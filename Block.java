@@ -65,5 +65,6 @@ b.calculateHash();
 b.mineBlock(1); b.getIndex(); b.getTimestamp(); b.getPreviousHash(); b.getHash();
 b.getData();
 System.out.println("This is git changes yet to be pulled");
+System.out.println("after merge");
 }
 }
