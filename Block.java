@@ -64,5 +64,6 @@ Block(1,"3a42c503953909637f78dd8c99b3b85ddde362415585afc11901bdefe8349102","hai"
 b.calculateHash();
 b.mineBlock(1); b.getIndex(); b.getTimestamp(); b.getPreviousHash(); b.getHash();
 b.getData();
+System.out.println("This is git changes yet to be pulled");
 }
 }
